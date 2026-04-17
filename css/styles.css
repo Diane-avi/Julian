@@ -37,7 +37,7 @@ body {
 }
 
 .nav a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
@@ -50,7 +50,7 @@ body {
 /* Secciones */
 .seccion {
   padding: 40px 20px;
-  background-color: #fff;
+  background-color: #000;
   margin: 20px auto;
   border-radius: 8px;
   max-width: 1000px;
